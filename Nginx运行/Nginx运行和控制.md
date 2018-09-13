@@ -1,4 +1,6 @@
-<center>Nginx运行和控制</center>
+<center><h1>
+    Nginx运行和控制
+    </h1></center>
 
 # 1、nginx 命令行参数
 
@@ -8,7 +10,7 @@
 nginx -h 
 ```
 
-![1536810556269](G:\文档\MD文档\Nginx\images\帮助命令.png)
+![1536810556269](..\images\帮助命令.png)
 
 nginx执行的命令行参数，有上述10种，其各种参数分别表示什么含义，如下：
 
@@ -16,7 +18,7 @@ nginx执行的命令行参数，有上述10种，其各种参数分别表示什�
 
 -v            表示显示当前系统安装的nginx版本号。
 
-![1536811045093](G:\文档\MD文档\Nginx\images\nginx-v.png)
+![1536811045093](..\images\nginx-v.png)
 
 -V             显示 nginx 的版本，编译器版本和配置参数。
 

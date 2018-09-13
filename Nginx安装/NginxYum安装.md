@@ -1,4 +1,6 @@
-<center>Nginx安装</center>
+<center><h1>
+    Nginx安装
+    </h1></center>
 
 # 1、安装环境
 
@@ -65,4 +67,4 @@ nginx
 
 浏览器访问，http://192.168.0.73
 
-![1536810020656](G:\文档\MD文档\Nginx\images\安装成功页面.png)
+![1536810020656](..\images\安装成功页面.png)

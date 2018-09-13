@@ -1,4 +1,6 @@
-<center>为什么选择Nginx</center>
+<center><h1>
+    为什么选择Nginx
+    </h1></center>
 
 # 1、为什么选择Nginx
 

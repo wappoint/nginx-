@@ -1,4 +1,6 @@
-<center>Nginx配置文件单位</center>
+<center><h1>
+    Nginx配置文件单位
+    </h1></center>
 
 # 1、 容量单位
 
